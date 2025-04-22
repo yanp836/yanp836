@@ -1,7 +1,7 @@
 ## Olá me chamo Yan! 🧑🏻‍💻
 ### Sou estudante de progamção no Colégio Técnico de Campinas Unicamp (COTUCA) 🚀
-### E tualmente estou aprendendo Python, MySQL, HTML E CSS! 
-[![My Skills](https://skillicons.dev/icons?i=py,html,css,mysql)](https://skillicons.dev)
+### E atualmente estou aprendendo Python, MySQL, HTML E CSS! 
+
 
 
 
