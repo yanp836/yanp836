@@ -1,5 +1,5 @@
 ## Olá me chamo Yan! 🧑🏻‍💻
-### Sou estudante de progamção no Colégio Técnico de Campinas Unicamp (COTUCA) 🚀
+### Sou estudante de progamação no Colégio Técnico de Campinas Unicamp (COTUCA) 🚀
 ### E atualmente estou aprendendo Python, MySQL, HTML E CSS! 
 
 
