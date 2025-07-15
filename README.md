@@ -1,4 +1,4 @@
-<h2 align="left">Hello!! My name is Yan and I'm a student of System Development in the Colégio Técnico de Campinas UNICAMP (COTUCA).</h2>
+<h2 align="left">Hello!! My name is Yan and I'm a student of System Development in the Technical College of Campinas UNICAMP (COTUCA).</h2>
 
 ###
 
